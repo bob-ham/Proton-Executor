@@ -1,5 +1,5 @@
 # One-True-Executor
-One True Executor, a passion project between me and ham
+One True Executor, a project between me and my friend ham
 
 
 *WINDOWS SUPPORTED ONLY*
