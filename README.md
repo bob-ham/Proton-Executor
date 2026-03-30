@@ -11,3 +11,5 @@ Credits go to ham, who will implement the UNC and sUNC functions as well of the 
 // worker.cpp *the injection process* is going to be made by me, ham and ai. I want to be honest, so yes the worker process is made by ai but everything else isnt
 
 it is detected and the only way youll get an undetected executor is if someone finds a critical flaw in byfron or you use kernal level drivers
+
+everything and i mean EVERYTHING is made by me and ham, so if your gonna take something like the API dll, give credits to me please
